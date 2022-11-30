@@ -1,0 +1,2 @@
+Nft marketplace deployed to 0x21D1B61B3c5cf6919161412cd92Fb0189268154E
+cryptoDev dao deployed to 0x3De942F35Dc8596E8d9e63b64cDcF3FAa220dc39
