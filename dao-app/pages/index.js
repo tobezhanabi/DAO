@@ -19,7 +19,7 @@ export default function Home() {
   const [numProposals, setNumProposals] = useState("0");
   const [proposals, setProposals] = useState([]);
   const [nftBalance, setNftBalance] = useState(0);
-  const [fakeNftTokenId, setFakeNftTokenId] = useState("");
+  const [fakeNftTokenId, setFakeNftTokenId] = useState(0);
   const [selectedTab, setSelectedTab] = useState("");
   const [loading, setLoading] = useState(false);
   const [walletConnected, setWalletConnected] = useState(false);
